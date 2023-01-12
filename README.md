@@ -4,9 +4,15 @@ This project is designed to work you through the deployment process of a multi-t
 
 # Technologies Used
 JDK
+
 Maven
+
 MySQL
+
 RabbitMQ
+
 Memcached
+
 Apache Tomcat
+
 
